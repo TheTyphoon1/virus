@@ -1,5 +1,5 @@
 Do
 	Do
-	msgbox "Loop", vbInformation, "crash"
+	msgbox "                      ", vbInformation, "USB Rubber Ducky"
     Loop
 Loop
